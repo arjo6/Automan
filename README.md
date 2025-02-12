@@ -13,7 +13,7 @@ Automan is an automated penetration testing tool for reconnaissance, exploitatio
 ## Installation
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/Automan.git
+   git clone https://github.com/arjo6/Automan.git
    cd Automan
    ```
 2. Install dependencies:
